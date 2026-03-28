@@ -92,5 +92,6 @@ Spam-Detection-Project/
 ## Author
 
 Hardik Saini
+
 Registration Number: 25BCE10544
 
